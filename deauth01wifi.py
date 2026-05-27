@@ -5,7 +5,7 @@ import colorama
 from colorama import Fore
 
 # Interface for Monitor Mode
-interface = "wlan0mon"
+interface = "wlan0"
 
 def banner():
     os.system("clear")
