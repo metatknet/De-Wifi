@@ -20,6 +20,6 @@ Run the following commands:
 
 ```bash
 git clone https://github.com/metatknet/Deauth01-Wifi.git
-cd Deauth01-Wifi
+cd De-Wifi
 chmod +x deauth01wifi.py
 python3 deauth01wifi.py
