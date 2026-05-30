@@ -19,7 +19,7 @@ Make it By Tanakenz(META)
 Run the following commands:
 
 ```bash
-git clone https://github.com/metatknet/Deauth01-Wifi.git
+git clone https://github.com/metatknet/De-Wifi.git
 cd De-Wifi
 chmod +x deauth01wifi.py
 python3 deauth01wifi.py
